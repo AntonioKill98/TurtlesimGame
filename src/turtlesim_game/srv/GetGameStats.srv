@@ -1,0 +1,4 @@
+---
+int32 catches
+float32 average_time
+string game_status

@@ -1,0 +1,2 @@
+float32 time_to_catch
+string game_status
